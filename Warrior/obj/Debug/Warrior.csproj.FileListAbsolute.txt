@@ -1,0 +1,7 @@
+D:\Repos\Warrior\Warrior\bin\Debug\Warrior.exe.config
+D:\Repos\Warrior\Warrior\bin\Debug\Warrior.exe
+D:\Repos\Warrior\Warrior\bin\Debug\Warrior.pdb
+D:\Repos\Warrior\Warrior\obj\Debug\Warrior.csprojResolveAssemblyReference.cache
+D:\Repos\Warrior\Warrior\obj\Debug\Warrior.csproj.CoreCompileInputs.cache
+D:\Repos\Warrior\Warrior\obj\Debug\Warrior.exe
+D:\Repos\Warrior\Warrior\obj\Debug\Warrior.pdb
